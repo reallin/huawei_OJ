@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/写出一个程序，接受一个十六进制的数值字符串，输出该数值的十进制字符串/src/Main/Main.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Main.Main"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="写出一个程序，接受一个十六进制的数值字符串，输出该数值的十进制字符串"/>
+</launchConfiguration>

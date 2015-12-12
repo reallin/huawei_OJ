@@ -1,0 +1,26 @@
+package graph;
+
+public class Stack {
+	public Vertex[] stack;
+	public int mSize = 20;
+	public int current = 0;
+	public Stack(int size){
+		stack = new Vertex[size];
+		this.mSize = size;
+	}
+	public void push(Vertex v){
+		stack[current++] = v;
+	}
+	public Vertex pop(){
+		if(current!=0)
+		return stack[current--];
+		else
+			return null;
+	}
+	public Vertex peek(){
+		if(current!=0)
+			return stack[current];
+			else
+				return null;
+	}
+}

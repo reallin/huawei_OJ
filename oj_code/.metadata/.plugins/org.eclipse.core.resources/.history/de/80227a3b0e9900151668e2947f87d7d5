@@ -1,0 +1,16 @@
+package Main;
+
+public class Main {
+	public static void main(String[] args){
+		StringBuffer sb = new StringBuffer();
+		sb.append("what is you");
+		String s = replaceSpace(sb);
+		System.out.print(s);
+	}
+	
+	    public static String replaceSpace(StringBuffer str) {
+	    	String str1 = str.toString();
+	        str1.replace(" ","%20");
+	        return str1;
+	    }
+}

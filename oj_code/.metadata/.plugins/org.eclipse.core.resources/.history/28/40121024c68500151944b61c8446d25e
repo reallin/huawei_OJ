@@ -1,0 +1,13 @@
+package graph;
+
+public class Stack {
+	public vertex[] stack;
+	public int mSize = 20;
+	public Stack(int size){
+		stack = new v[size];
+		this.mSize = size;
+	}
+	public void push(){
+		
+	}
+}

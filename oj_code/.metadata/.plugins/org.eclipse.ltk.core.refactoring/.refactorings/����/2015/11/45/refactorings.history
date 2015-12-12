@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;youxulianbiao.LinkList.java&apos; to &apos;LinksortList.java&apos;&#x0D;&#x0A;- Original project: &apos;链表&apos;&#x0D;&#x0A;- Original element: &apos;youxulianbiao.LinkList.java&apos;&#x0D;&#x0A;- Renamed element: &apos;youxulianbiao.LinksortList.java&apos;" description="Rename compilation unit &apos;LinkList.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;youxulianbiao{LinkList.java" name="LinksortList.java" references="false" stamp="1446557232658" version="1.0"/>
+</session>
